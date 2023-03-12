@@ -1,0 +1,12 @@
+const toy1 = {name: 'Buss myYear', price: 19};
+const toy2 = {name: 'Rallo mcKing', price: 29};
+
+//PRIMERA OPCIÓN
+console.log(toy1.price + toy2.price);
+
+//SEGUNDA OPCIÓN
+let sumaPrecios = toy1.price + toy2.price;
+console.log(sumaPrecios);
+
+
+
